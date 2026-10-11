@@ -1,0 +1,17 @@
+{
+  "name": "SMAT 올인원 — 서비스경영자격 A·B·C",
+  "short_name": "SMAT 올인원",
+  "description": "SMAT 서비스경영자격 A·B·C 모듈 개념 강의 · 핵심 요약 · 문제풀이 올인원",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "lang": "ko",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
